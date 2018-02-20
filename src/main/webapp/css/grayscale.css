@@ -139,6 +139,8 @@ a:focus, a:hover {
 
 .masthead .intro-body .brand-heading {
   font-size: 50px;
+  color: #42f78a;
+  text-shadow: -1px 0 #36aa19, 0 1px #36aa19, 1px 0 #36aa19, 0 -1px #36aa19;
 }
 
 .masthead .intro-body .intro-text {
