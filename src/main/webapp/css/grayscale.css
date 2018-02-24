@@ -285,7 +285,11 @@ img::-moz-selection {
 }
 
 .list-group-item {
-  background-color: #1d9b6c;
+  background-color: #aaaaaa;
+}
+
+.list-group-item-danger {
+  background-color: #c82333;
 }
 
 .badge-success{
@@ -328,4 +332,16 @@ img::-moz-selection {
 .list-group-item{
   padding-top: 1px;
   padding-bottom: 1px;
+}
+
+.panel-heading-success {
+  background: #20c997 !important;
+}
+
+.panel-heading-success {
+  background: #20c997 !important;
+}
+
+.panel-heading-danger {
+  background: #f80462 !important;
 }
